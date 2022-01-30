@@ -1,0 +1,24 @@
+{
+  "name": "ChallangeYOBabi",
+  "version": "2.0.0",
+  "description": "Advanced Welcomer Bot Discord",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "url": "https://github.com/GarudaID/Welcome-Bot"
+  },
+  "license": "MIT",
+  "keywords": [
+    "discord-js",
+    "bot",
+    "emo"
+  ],
+  "dependencies": {
+    "discord-canvas": "^1.4.1",
+    "discord.js": "^13.1.0",
+    "moment": "^2.29.1",
+    "old-wio.db": "^4.0.10"
+  }
+}
