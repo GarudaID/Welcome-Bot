@@ -12,9 +12,9 @@
 - Enjoy
 
 
-## Usage - index.js
+## Usage - config.js
 
-```json
+```js
 const config = {
   Token: "YOUR TOKEN",
   Default_Prefix: ".",
